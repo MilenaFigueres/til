@@ -1,8 +1,8 @@
 # Cherry Pick
 
-## Cherry pick means to choose a commit from one branch and apply it onto another.
+#the steps to follow are
 
-### Steps
+   gco master
 
 ```gco master
 create branch. E.g.: fix-bug-etc
