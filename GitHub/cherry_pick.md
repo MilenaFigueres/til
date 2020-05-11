@@ -1,6 +1,6 @@
 # Cherry Pick
 
-#the steps to follow are
+## The steps to follow are:
 
 1- `gco master`
 
