@@ -1,7 +1,7 @@
 # Common Cheatsheet GitHub
 
-`ga	git add`
-`gaa	git add --all
+```ga	git add
+gaa	git add --all
 gb	git branch
 gcb	git checkout -b
 gcm	git checkout master
@@ -44,4 +44,4 @@ gstl	git stash list
 gstp	git stash pop
 gstc	git stash clear
 gsts	git stash show --text
-gup	git pull --rebase
+gup	git pull --rebase```
