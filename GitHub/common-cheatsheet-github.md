@@ -1,7 +1,7 @@
 # Common Cheatsheet GitHub
 
-ga	git add
-gaa	git add --all
+`ga	git add`
+`gaa	git add --all
 gb	git branch
 gcb	git checkout -b
 gcm	git checkout master
