@@ -4,7 +4,7 @@
 
 1- `gco master`
 
-2- create branch. E.g.: fix-bug-etc
+2- create branch. E.g.: `fix-bug-etc`
 
 3- `git log` (to know what the commit hash is)
 
